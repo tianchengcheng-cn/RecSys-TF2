@@ -1,6 +1,6 @@
 
 
-import tensorflow as tf
+imort tensorflow as tf
 from tensorflow.keras import layers
 from layers.attention import attention
 from layers.activation_func import Dice, dice
